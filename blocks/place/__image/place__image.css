@@ -1,0 +1,13 @@
+.place__image {
+  width: 460px;
+  height: 460px;
+  margin: 48px 0 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.place__image:nth-child(1) {
+  background-image: url(../../../images/place-kosa.jpg);
+}
+
+
