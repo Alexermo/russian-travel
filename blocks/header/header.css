@@ -1,6 +1,10 @@
 .header {
-  width: 90%;
-  height: 52px;
-  margin: 28px auto 0;
+  width: 92.5%;
   display: flex;
+  justify-content: space-between;
+  margin: 28px auto 0;
+  align-items: center;
+  position: relative;
 }
+
+

@@ -1,7 +1,4 @@
 .places {
-  width: 984px;
+  width: 76.9%;
   margin: 92px auto 0;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
 }

@@ -1,5 +1,6 @@
 .header__lang-link_language_ru {
   width: 30px;
   text-decoration-line: underline;
-  margin-right: 18px;
+  position: absolute;
+  right: 47px;
 }

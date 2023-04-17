@@ -1,4 +1,6 @@
 .header__lang-link_language_en {
   width: 29px;
   text-decoration-line: none;
+  position: absolute;
+  right: 0;
 }
