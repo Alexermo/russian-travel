@@ -1,5 +1,12 @@
 .place__paragraphs {
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: 26px;
+}
+
+@media screen and (max-width: 320px) {
+  .place__paragraphs {
+    gap: 25px;
+    margin-left: 16px;
+  }
 }

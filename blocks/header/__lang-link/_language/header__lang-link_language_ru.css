@@ -4,3 +4,10 @@
   position: absolute;
   right: 47px;
 }
+
+@media screen and (max-width: 320px) {
+  .header__lang-link_language_ru {
+    width: 22px;
+    right: 40px;
+  }
+}
