@@ -27,6 +27,7 @@
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
@@ -40,3 +41,9 @@
 @import url(../blocks/footer/__link/_trip/footer__link_trip.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../fonts/inter/inter.css);
+
+@media (min-width: 768px) and (max-width: 1023.99px)
+
+{ .page {
+  max-width: 1024px;
+} }

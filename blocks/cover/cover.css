@@ -1,7 +1,15 @@
 .cover {
   width: 92.5%;
   margin: 92px auto 0;
-  display: grid;
-  grid-template-rows: 1fr;
-  grid-template-columns: 1fr;
+  display: flex;
+  position: relative;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
 }
