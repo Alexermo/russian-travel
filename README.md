@@ -12,4 +12,4 @@
 * Flex
 * Media
 
-#### Сайт проекта на GitHub Pages
+#### Сайт проекта на GitHub Pages https://alexermo.github.io/russian-travel/
