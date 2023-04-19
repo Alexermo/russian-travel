@@ -8,5 +8,6 @@
   .place__paragraphs {
     gap: 25px;
     margin-left: 16px;
+    margin-right: 16px;
   }
 }
