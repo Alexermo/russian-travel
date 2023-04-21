@@ -43,5 +43,4 @@
 @import url(../blocks/footer/__link/_calendar/footer__link_calendar.css);
 @import url(../blocks/footer/__link/_trip/footer__link_trip.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-@import url(../fonts/inter/inter.css);
-
+@import url(../fonts/inter.css);
