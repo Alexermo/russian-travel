@@ -1,8 +1,11 @@
 .header__lang-link_language_en {
   width: 29px;
   text-decoration-line: none;
-  position: absolute;
-  right: 0;
+  margin: 0;
+}
+
+.header__lang-link_language_en:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {
